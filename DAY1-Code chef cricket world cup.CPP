@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int X;
-    cout<<"Enter number of points scored";
+    cout<<"Enter number of points scored ";
     cin>> X;
     if (X>=1 && X<=20){
 
