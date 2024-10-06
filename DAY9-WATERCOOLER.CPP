@@ -29,7 +29,7 @@ int main(){
         if(X>=Y)
         cout<<"0"<<endl;
         else
-        cout<<(Y/X)-1<<endl;
+        cout<<(Y/X)<<endl;
 
         }
 
